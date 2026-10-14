@@ -1,0 +1,22 @@
+# Secrets
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Runtime
+.cache/
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
+
+# Task brief (not part of the submission)
+*.docx
+
+# Original brand file (copy lives in assets/)
+/logo-inspectionDrone.svg

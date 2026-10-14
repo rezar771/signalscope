@@ -1,0 +1,13 @@
+.venv
+.git
+.cache
+**/__pycache__
+.pytest_cache
+tests
+docs
+scripts
+*.docx
+*.md
+.env
+logo-inspectionDrone.svg
+.DS_Store
